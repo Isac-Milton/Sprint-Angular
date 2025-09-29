@@ -5,8 +5,7 @@
   justify-content: center;
   align-items: center;
   gap: 40px;
-  height: 100vh;
-  background: linear-gradient(to bottom, rgb(18, 117, 255), rgb(7, 7, 120), black);
+  margin-top: 15%;
 }
 
 .container {
@@ -33,8 +32,8 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  width: 80%;
-  max-width: 400px;
+  width: 100%;
+  height: 100%;
   padding: 20px;
   border-radius: 8px;
   background: linear-gradient(145deg, #d4d4d4, #a6a6a6);
